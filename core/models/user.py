@@ -1,6 +1,9 @@
 """
 Database models.
 """
+"""
+Database models.
+"""
 from django.contrib.auth.models import (
     AbstractBaseUser,
     BaseUserManager,

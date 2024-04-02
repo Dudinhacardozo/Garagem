@@ -5,5 +5,5 @@ from core.models import User
 
 class UserSerializer(ModelSerializer):
     class Meta:
-        model = user
+        model = User
         fields = "__all__"
